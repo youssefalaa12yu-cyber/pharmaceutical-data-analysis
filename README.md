@@ -43,7 +43,7 @@ Healthcare data was fragmented across different hospitals, making it difficult t
 
 ## 🖼️ Dashboard
 
-![Dashboard](pharma)
+![Dashboard](pharm.png)
 
 ---
 
